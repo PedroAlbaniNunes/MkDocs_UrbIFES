@@ -1,4 +1,5 @@
 site_name: UrbIFES
+site_url: https://pedroalbaninunes.github.io/MkDocs_UrbIFES/
 nav:
   - Home: index.md
   - Problema: problema.md
